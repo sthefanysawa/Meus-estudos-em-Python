@@ -1,0 +1,11 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 1A71-4C69
+
+ Pasta de C:\Users\Aluno\Documents\Meus-estudos-em-Python
+
+22/10/2026  12:29    <DIR>          .
+22/10/2026  11:59    <DIR>          ..
+22/10/2026  12:24                29 README.md
+22/10/2026  12:29                 0 teste.txt
+               2 arquivo(s)             29 bytes
+               2 pasta(s)   306.981.421.056 bytes dispon°veis
